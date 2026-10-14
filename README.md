@@ -2,10 +2,11 @@
 
 **Hosts the privacy policy, terms of use, and support page for Clad, an iOS app that scores outfit photos with on-device machine learning.**
 
-Live: **https://keshavkrishnan08.github.io/CladPrivacy/privacy-policy.html**
+Live: **https://keshavkrishnan08.github.io/CladPrivacy/**
 
 ## Pages
 
+- `index.html`: landing page linking to the three pages below
 - `privacy-policy.html`: the privacy policy, last updated March 22, 2026
 - `terms-of-use.html`: terms of use, including subscription and renewal terms
 - `support.html`: FAQ, subscription plans, and the support contact
@@ -16,6 +17,6 @@ Clad analyzes outfit photos on the iPhone with Core ML models and Apple's Vision
 
 ## Update and deploy
 
-GitHub Pages serves the `main` branch from the repository root. Edit the HTML files and push to `main`. There is no `index.html`, so link to the page files directly; the bare site root returns 404.
+GitHub Pages serves the `main` branch from the repository root. Edit the HTML files and push to `main`. `index.html` is a small landing page that links to the three pages.
 
 Contact: keshav-krishnan@outlook.com
